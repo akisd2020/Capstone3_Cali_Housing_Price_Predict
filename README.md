@@ -1,3 +1,3 @@
 # Capstone3_Cali_Housing_Price_Predict
 California_Housing_Price_Prediction
-https://github.com/akisd2020/Capstone3_Cali_Housing_Price_Predict/blob/main/image
+[](images%20real-estate-price..jpg)
